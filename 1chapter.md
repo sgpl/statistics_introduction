@@ -36,4 +36,6 @@
 
 - the number or label used to represent an element of the population is called an <b>observation</b> or <b>datum</b>
 
--- 
+- a <b>sample</b> s a proper subset of a population
+-- for practical reasons most research is carried out with samples rather than with populations. 
+-- it is assumed that the study of the sample will reveal something about the population. 
